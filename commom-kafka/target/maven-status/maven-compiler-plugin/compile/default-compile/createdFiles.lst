@@ -1,0 +1,5 @@
+br\com\neon\payments\ConsumerFunction.class
+br\com\neon\payments\GsonDeserializer.class
+br\com\neon\payments\KafkaDispatcher.class
+br\com\neon\payments\GsonSerializer.class
+br\com\neon\payments\KafkaService.class
